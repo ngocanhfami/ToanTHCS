@@ -29,16 +29,74 @@ Cho $f(x) = ax^2 + bx + c$. Biết $f(-1), f(0), f(1) \in \mathbb{Z}$. Chứng m
 
 ### ✨ Lời giải
 
+
+## 🧠 Bước 1: Viết hệ
+
 Ta có:
-- $f(0) = c \in \mathbb{Z}$
-- $f(1) = a + b + c \in \mathbb{Z}$
-- $f(-1) = a - b + c \in \mathbb{Z}$
 
-Suy ra:
-$b = \frac{f(1) - f(-1)}{2} \in \mathbb{Z}$
-$a = \frac{f(1) + f(-1) - 2c}{2} \in \mathbb{Z}$
+$f(0) = c \in \mathbb{Z}$
 
-⇒ $a, b, c \in \mathbb{Z} \Rightarrow f(x) \in \mathbb{Z}$
+$f(1) = a + b + c \in \mathbb{Z}$
+
+$f(-1) = a - b + c \in \mathbb{Z}$
+
+---
+
+## 🧠 Bước 2: Tách riêng (a, b)
+
+### 🔹 Tìm (b)
+
+Lấy hiệu:
+
+$f(1) - f(-1) = (a+b+c) - (a-b+c) = 2b$
+
+⇒
+$b = \frac{f(1) - f(-1)}{2}$
+
+👉 Vì (f(1), f(-1)) đều là số nguyên ⇒ hiệu là số nguyên
+⇒ (2b) là số nguyên ⇒ **(b) là số hữu tỉ**
+
+⚠️ Điểm quan trọng:
+
+* (f(1) - f(-1)) là **hiệu của 2 số nguyên ⇒ luôn chẵn hoặc lẻ**
+* Nhưng thực tế:
+  $f(1) + f(-1) = 2a + 2c$
+  ⇒ tổng là số chẵn ⇒ hiệu cũng phải chẵn
+
+⇒ (2b) là số chẵn ⇒ $(b \in \mathbb{Z})$
+
+---
+
+### 🔹 Tìm (a)
+
+Lấy tổng:
+
+$f(1) + f(-1) = 2a + 2c$
+
+$a = \frac{f(1) + f(-1) - 2c}{2}$
+
+👉 Vì:
+
+* (f(1), f(-1), c) đều nguyên
+  ⇒ tử số là số chẵn ⇒ chia 2 vẫn nguyên
+
+⇒ $(a \in \mathbb{Z})$
+
+---
+
+## 🧠 Bước 3: Kết luận
+
+Ta đã có:
+
+* $(a, b, c \in \mathbb{Z})$
+
+⇒ Với mọi $(x \in \mathbb{Z})$:
+
+$f(x) = ax^2 + bx + c \in \mathbb{Z}$
+
+
+
+
 
 ---
 
