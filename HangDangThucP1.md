@@ -221,8 +221,8 @@ Ta nhóm các hạng tử chứa biến $x$ và đặt dấu trừ ra ngoài:
 $K = 5 - (x^2 - 6x)$
 Thêm bớt số 9 vào trong ngoặc để tạo thành hằng đẳng thức $(a-b)^2$:
 $K = 5 - (x^2 - 6x + 9 - 9)$
-$K = 5 - \left[(x - 3)^2 - 9
-ight]$
+$K = 5 -
+(x - 3)^2 - 9$
 $K = 5 - (x - 3)^2 + 9$
 $K = 14 - (x - 3)^2$
 Vì $(x - 3)^2 \ge 0$ với mọi $x \in \mathbb{R}$ nên $-(x - 3)^2 \le 0$.
@@ -254,17 +254,22 @@ Cho hai số thực $x, y$ thỏa mãn $x + y = 2$. Tìm giá trị nhỏ nhất
 
 **Bài 3 (Phân tích đa thức thành nhân tử):**
 Phân tích đa thức sau thành nhân tử bằng cách thêm bớt để tạo hiệu hai bình phương:
+
 $A = x^4 + 4$
 
 *Gợi ý: Thêm và bớt $4x^2$ để nhóm hằng đẳng thức $(x^2+2)^2$.*
+
 *Đáp số: $A = (x^2 - 2x + 2)(x^2 + 2x + 2)$.*
 
 **Bài 4 (Nâng cao hệ thức nghịch đảo):**
-Cho $x - rac{1}{x} = 2$. Tính giá trị của biểu thức $K = x^4 + rac{1}{x^4}$.
+Cho $x - \frac{1}{x} = 2$. Tính giá trị của biểu thức 
+$K = x^4 + rac{1}{x^4}$.
+
 *Đáp số: $K = 34$.*
 
 **Bài 5 (Bổ đề Chuyên Toán):**
 Chứng minh rằng nếu $a^2 + b^2 + c^2 = ab + bc + ca$ thì $a = b = c$.
+
 *Gợi ý: Nhân cả hai vế với 2, chuyển tất cả sang một vế rồi nhóm thành tổng của 3 hằng đẳng thức bình phương một hiệu.*
 Hang_Dang_Thuc_On_Thi_Chuyen.md
 Đang hiển thị Hang_Dang_Thuc_On_Thi_Chuyen.md.
