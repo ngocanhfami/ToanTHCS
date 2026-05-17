@@ -87,7 +87,7 @@ $x^2 + \frac{1}{x^2} = 9 - 2 = 7$
 ---
 
 ### Bài 4: Tính tổng lập phương nghịch đảo
-**Đề bài:** Cho $x + rac{1}{x} = 3$. Tính giá trị của biểu thức $C = x^3 + rac{1}{x^3}$.
+**Đề bài:** Cho $x + \frac{1}{x} = 3$. Tính giá trị của biểu thức $C = x^3 + \frac{1}{x^3}$.
 
 **Lời giải:**
 Sử dụng hằng đẳng thức biến đổi tổng hai lập phương:
@@ -95,8 +95,8 @@ $C = x^3 + \frac{1}{x^3} = (x + \frac{1}{x}
 )^3 - 3 \cdot x \cdot \frac{1}{x} \cdot (x + \frac{1}{x}
 )$
 
-$C = (x + rac{1}{x}
-)^3 - 3(x + rac{1}{x}
+$C = (x + \frac{1}{x}
+)^3 - 3(x + \frac{1}{x}
 )$
 
 Thay số $x + \frac{1}{x} = 3$ vào ta được:
