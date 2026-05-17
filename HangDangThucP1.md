@@ -69,13 +69,13 @@ $A = -2 \cdot (-2)^2 = -2 \cdot 4 = -8$
 ---
 
 ### Bài 3: Tính tổng bình phương nghịch đảo
-**Đề bài:** Cho $x + rac{1}{x} = 3$. Tính giá trị của biểu thức $B = x^2 + rac{1}{x^2}$.
+**Đề bài:** Cho $x + \frac{1}{x} = 3$. Tính giá trị của biểu thức $B = x^2 + \frac{1}{x^2}$.
 
 **Lời giải:**
-Bình phương hai vế của giả thiết $x + rac{1}{x} = 3$, ta được:
+Bình phương hai vế của giả thiết $x + \frac{1}{x} = 3$, ta được:
 $(x + \frac{1}{x})^2 = 3^2$
 
-$x^2 + 2 \cdot x \cdot \frac{1}{x} + rac{1}{x^2} = 9$
+$x^2 + 2 \cdot x \cdot \frac{1}{x} + \frac{1}{x^2} = 9$
 
 Vì $x \cdot \frac{1}{x} = 1$, phương trình tương đương:
 $x^2 + 2 + \frac{1}{x^2} = 9$
