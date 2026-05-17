@@ -91,15 +91,15 @@ $x^2 + \frac{1}{x^2} = 9 - 2 = 7$
 
 **Lời giải:**
 Sử dụng hằng đẳng thức biến đổi tổng hai lập phương:
-$C = x^3 + rac{1}{x^3} = \left(x + rac{1}{x}
-ight)^3 - 3 \cdot x \cdot rac{1}{x} \cdot \left(x + rac{1}{x}
-ight)$
+$C = x^3 + \frac{1}{x^3} = (x + \frac{1}{x}
+)^3 - 3 \cdot x \cdot \frac{1}{x} \cdot (x + \frac{1}{x}
+)$
 
-$C = \left(x + rac{1}{x}
-ight)^3 - 3\left(x + rac{1}{x}
-ight)$
+$C = (x + rac{1}{x}
+)^3 - 3(x + rac{1}{x}
+)$
 
-Thay số $x + rac{1}{x} = 3$ vào ta được:
+Thay số $x + \frac{1}{x} = 3$ vào ta được:
 $C = 3^3 - 3 \cdot 3 = 27 - 9 = 18$
 
 **Đáp số:** $C = 18$.
